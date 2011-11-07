@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Koenigsberger&#39;s Work (1928-1951)</name>
+  <description><![CDATA[]]></description>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/en_ALL/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/intl/de_ALL/mapfiles/ms/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/yellow-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/pink-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Summer House</name>
+    <description><![CDATA[<div dir="ltr">Built: 1928<br>Client: Maas Family<br>Realised: Yes<br>Image: A_1928_Summer-House </div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>13.829641,54.113056,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Summer House Extension</name>
+    <description><![CDATA[<div dir="ltr">Built: 1930<br>Client: Maas Family<br>Realised: Yes<br>Image: A_1930_Summer-House</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>13.828826,54.113182,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Country House</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1931<br>Client: Student Project<br>Realised: No<br>Image: A_1931_Landhaus</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>13.327017,52.511860,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Workers&#39; Housing</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1931<br>Client: Student Project<br>Realised: No<br>Image: A_1931_Workers-Housing</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>13.325858,52.512093,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Zoological Garden</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1931<br>Client: Diploma Project<br>Realised: No<br>Image: A_1931_Zoologischer-Garten</div>]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>13.327789,52.512253,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>H2O</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1932<br>Client: Competition Entry (Third Prize)<br>Realised: No<br>Image: A_1932_H2O</div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>13.579799,52.423340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Justice Building</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1932<br>Client: Competition Entry<br>Realised: No<br>Image: A_1932_Justice-Building</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>13.365490,52.526234,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gynaecological Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1933<br>Client: Government of Berlin<br>Realised: Yes<br>Image: A_1933_Gynaecological-Hospital</div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>13.394158,52.523251,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Olympic Village</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1933<br>Client: Competition Entry (First Prize)<br>Realised: No<br>Image: A_1933_Olympic-Village</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>12.960262,52.354424,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Museum Island, Cairo</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1937<br>Client: Swiss Institute (Borchardt)<br>Realised: No<br>Image: A_1937_Egyptian-Museum-Extension</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>31.233089,30.046371,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bathing Ghat</name>
+    <description><![CDATA[<div dir="ltr">Built: 1940<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Bathing-Ghat-Chickpet</div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>77.576897,12.969028,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bus Terminus Bangalore City</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Bus-Terminus-Bangalore-City</div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>77.577454,12.960455,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dispensary for Women and Children</name>
+    <description><![CDATA[<div dir="ltr">Built: 1949<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Dispensary-for-Women-and-Children</div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>77.572800,12.970936,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Intermediate College</name>
+    <description><![CDATA[<div dir="ltr">Built: 1940<br>Client: Government of Mysore<br>Realised: Yes<br>Image: </div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>75.594086,13.916297,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Krishna Rao Pavilion</name>
+    <description><![CDATA[<div dir="ltr">Built: 1940<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Krishna-Rao-Pavilion</div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>77.575287,12.941891,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Law Courts </name>
+    <description><![CDATA[<div dir="ltr">Planned: 1940<br>Client: Government of Mysore<br>Realised: No<br>Image: A_1940_Law-Courts<br></div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>77.598030,12.980152,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mantap at Malleswaram Highschool</name>
+    <description><![CDATA[<div dir="ltr">Built: 1940<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Tiffin-Mantap-Malleswaram</div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>77.570503,13.009450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bangalore Palace Alterations</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1940<br>Client: Maharajah of Mysore<br>Realised: Yes<br>Image: A_1940_Bangalore-Palace-Alterations</div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>77.592400,12.998076,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Municipal Swimming Pool</name>
+    <description><![CDATA[<div dir="ltr">Built: 1940<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Municipal-Swimming-Pool</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>77.588791,12.966741,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Principal&#39;s Bungalow Maharani College</name>
+    <description><![CDATA[<div dir="ltr">Built: 1940<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Principals-Bungalow</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>77.582962,12.979510,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Serum Institute</name>
+    <description><![CDATA[<div dir="ltr">Built: 1940<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Serum-Institute<br></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>77.588326,13.035227,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mysore Engineers Association</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1940_Engineers-Association-Building</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>77.585587,12.975450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Aeronautics Faculty IISc</name>
+    <description><![CDATA[<div dir="ltr">Built: 1942<br>Client: Indian Institute of Science<br>Realised: Yes<br>Image: A_1942_Aeronautics-IISc</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>77.565819,13.015210,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Central College for Women</name>
+    <description><![CDATA[<div dir="ltr">Built: 1942<br>Client: Government of MP<br>Realised: Yes<br>Image: A_1942_Central-College-for-Women</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>79.044563,21.163525,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>All India Radio</name>
+    <description><![CDATA[<div dir="ltr">Built: 1943<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1943_All-India-Radio </div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>76.638680,12.321348,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mysore Representative Assembly Hall </name>
+    <description><![CDATA[<div dir="ltr">Planned: 1943<br>Client: Government of Mysore<br>Realised: No<br>Image: A_1943_Mysore-Representative-Assembly-Hall</div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>76.639488,12.307954,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>General Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1942<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>77.098259,13.339552,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Observatory, Central College </name>
+    <description><![CDATA[<div dir="ltr">Built: 1943<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>77.583588,12.975756,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mysore Palace Alterations</name>
+    <description><![CDATA[<div dir="ltr">Built: 1943<br>Client: Maharajah of Mysore<br>Realised: Yes<br>Image: A_1941_Mysore-Palace-Alterations</div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>76.655434,12.305156,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Plywood Factory</name>
+    <description><![CDATA[<div dir="ltr">Built: 1943<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>77.559425,13.018908,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Transformer Government Electric Factory</name>
+    <description><![CDATA[<div dir="ltr">Built: 1943<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>77.649460,12.992097,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chemical Engineering Department, Indian Institute of Science</name>
+    <description><![CDATA[<div dir="ltr">Built: 1943<br>Client: Indian Institute of Science<br>Realised: Yes<br>Image: A_1944_Chemical-Engineering-Department</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>77.569656,13.016872,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Office Building, Mysore Chemicals and Fertilisers</name>
+    <description><![CDATA[<div dir="ltr">Built: 1944<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>76.587234,12.389321,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Occupational Institute</name>
+    <description><![CDATA[<div dir="ltr">Built: 1944<br>Client: Government of Mysore<br>Realised: Yes</div><div dir="ltr">Image:&nbsp;<span style="font-size:12px">A_1940_Occupational-Institute</span><br><br>&nbsp;</div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>77.586006,12.977105,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dining Hall, Indian Institute of Science</name>
+    <description><![CDATA[<div dir="ltr">Built: 1946<br>Client: Indian Institute of Science<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>77.565033,13.016279,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Power House</name>
+    <description><![CDATA[<div dir="ltr">Built: 1946<br>Client: Government of India<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>75.704041,13.840205,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>House Bhatia</name>
+    <description><![CDATA[<div dir="ltr">Built: 1947<br>Client: Bhatia Family<br>Realised: Yes<br>Image: A_1947_Bhatia-House</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>77.575233,12.947265,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Metallurgy Laboratories, Indian Institute of Science</name>
+    <description><![CDATA[<div dir="ltr">Built: 1947<br>Client: Indian Institute of Science<br>Realised: Yes<br>Image: A_1947_Metallurgy-IISc<br></div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>77.569466,13.014797,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Natural Science Block, Central College</name>
+    <description><![CDATA[<div dir="ltr">Built: 1947<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>77.584312,12.975139,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Victory Hall</name>
+    <description><![CDATA[<div dir="ltr">Built: 1947<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1947_Victory-Hall</div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>77.596825,12.975850,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Government Ayurvedic Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1948<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1948_Ayurvedic-Hospital</div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>77.573547,12.979154,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>TB Sanatorium</name>
+    <description><![CDATA[<div dir="ltr">Built: 1948<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1948_TB-Sanatorium</div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>77.591385,12.937164,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Irrigation System, Brindavan Gardens </name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1947_Irrigation-System-Brindavan-Gardens</div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>76.574387,12.420777,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Car Showroom</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: ?<br>Realised: Yes<br>Image: A_1947_India_Car-Showroom</div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>77.601654,12.974496,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Children&#39;s Ward, General Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>75.564415,13.935036,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Extensions to Medical College</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>76.650002,12.313232,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Extensions to Mental Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>77.596992,12.937311,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hunting Lodge</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client:?<br>Realised: Yes<br>Image: A_1947_Hunting-Lodge</div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>76.239624,11.831062,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Regional Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>75.785278,12.944379,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nursers Quarters, Combined Hospitals</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>76.650024,12.312331,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Outpatients Department, Krishnarajendra Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>76.649200,12.313392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pathology Block, Victoria Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>77.573906,12.963106,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Radiology WIng, Krishnarajendra Hospital</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes</div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>76.648605,12.312624,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>School at Hassan</name>
+    <description><![CDATA[<div dir="ltr">Built: 1941-1948<br>Client: Government of Mysore<br>Realised: Yes<br>Image: A_1942_School-at-Hassan</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>76.104874,13.006711,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Koenigsberger&#39;s Prefab</name>
+    <description><![CDATA[<div dir="ltr">Built: 1948-1950<br>Client: Government of India<br>Realised: Yes<br>Image: A_1948-1950_Prefab-Type-1</div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>77.210564,28.603985,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Housing Factory</name>
+    <description><![CDATA[<div dir="ltr">Built: 1950<br>Client: Government of India</div><div dir="ltr">Realised: Yes</div><div dir="ltr">Image:&nbsp;<span style="font-size:12px">A_1950_Housing-Factory</span></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>77.252640,28.576645,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Air-conditioned Office Building</name>
+    <description><![CDATA[<div dir="ltr">Built: 1951<br>Client: Government of India<br>Realised: Yes<br>Image: A_1951_Air-conditioned-Office-Building<br></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>77.252213,28.576927,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bhadravati </name>
+    <description><![CDATA[<div dir="ltr">Planned: 1941<br>Client: Government of Mysore<br>Realised: Partially<br>Image: P_1941_Bhadravati</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>75.695290,13.837413,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Workers&#39; Quarters, Swadeshi Mills</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1943<br>Client: TATA<br>Realised: Partially<br>Image: P_1943_Workers-Quarters-Swadeshi-Mills-Kurla</div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>72.871910,19.056196,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jamshedpur</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1945<br>Client: TATA<br>Realised: Partially<br>Image: P_1946_Jamshedpur</div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>86.195641,22.806963,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mithapur</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1948<br>Client: TATA<br>Realised: Partially<br>Image: P_1948_Mithapur</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>69.007957,22.409204,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harihar</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1940-1948<br>Client: Government of Mysore<br>Realised: Partially</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>75.811111,14.512884,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bhubaneswar</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1948<br>Client: Government of India<br>Realised: Partially</div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>85.841759,20.268719,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Faridabad</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1951<br>Client: Government of India<br>Realised: Partially</div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>77.303322,28.385397,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gandhidam</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1951<br>Client: Government of India<br>Realised: Partially<br>Image: P_1951_Gandhidam<br>iconfile: plan-01.png</div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>70.134743,23.069860,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sindri Fertiliser Company Township</name>
+    <description><![CDATA[<div dir="ltr">Planned: 1951<br>Client: Government of India<br>Realised: Partially</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>86.481346,23.664612,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>St Joseph&#39;s Hostel</name>
+    <description><![CDATA[<div dir="ltr">Foundation stone laid in 1947</div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>77.595802,12.962468,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

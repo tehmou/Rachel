@@ -40,18 +40,15 @@
         }
 
         #years {
-            position: relative
+            position: relative;
             padding: 7px;
             border-radius: 8px;
             border: 1px solid black;
             background: white;
-            display: none;
+            width: 140px;
+            text-align: center;
         }
         
-        #years span {
-            display: block;
-        }
-
         #toggle-button {
             cursor: pointer;
             cursor: hand;
@@ -75,9 +72,7 @@
     <div id="map-canvas"></div>
     <div id="left">
         <h1 id="title"></h1>
-        <div id="years">
-            
-        </div>
+        <div id="years"></div>
     </div>
 
     <h1 id="toggle-button">Toggle View</h1>
@@ -97,7 +92,7 @@
             <p>Lifetime: <%= t('lifetime') %><br />
             Profession: <%= t('profession') %><br />
             Network: <%= t('network') %><br />
-            Knew from: <%= t('knew otto koenigsberger from') %>
+            Knew from: <%= t('knew otto koenigsberger from') %></p>
         </div>
     </script>
 </body>

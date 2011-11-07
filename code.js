@@ -6,6 +6,9 @@ $(function () {
     var personTemplate = _.template($("#person-template").text());
     var buildingMarkers = [];
     var peopleMarkers = [];
+    var peopleLines = [];
+    var ottoPositions = [];
+    var currentDisplayedIndex = -1;
     var displayMode = "buildings";
 
     function createMap () {
@@ -56,7 +59,8 @@ $(function () {
             var info = processInfo(this);
             var markerOptions = {
                 position: coord,
-                map: map
+                map: map,
+                zIndex: 1
             };
             markerOptions.icon = new google.maps.MarkerImage(
                 //"http://timotuominen.fi/rachel/thumbnails/" + info.image + ".jpg",
@@ -74,25 +78,31 @@ $(function () {
             });
             bounds.extend(coord);
             buildingMarkers.push(marker);
-            //$("#years").append("<span>" + $(this).find("name").text() + "</span>");
         });
 
         map.fitBounds(bounds);
     }
 
-
-
     function processNetworkData (data) {
         var people = $(data).find("Document>Placemark");
         _.each(people, function (person) {
             var info = processInfo(person);
+            var match = /Otto Koenigsberger \[([0-9]*)\-([0-9]*)\]/.exec(info.name);
             var coord = processLatLng(person);
             var markerOptions = {
                 position: coord,
-                icon: new google.maps.MarkerImage(
-                    "http:////maps.gstatic.com/mapfiles/ms2/micons/man.png",
-                    new google.maps.Size(32, 32)
-                )
+                icon: match ?
+                    new google.maps.MarkerImage(
+                        "img/ghost_web_99.png",
+                        new google.maps.Size(99, 99),
+                        new google.maps.Point(0, 0),
+                        new google.maps.Point(45, 45)
+                    ) :
+                    new google.maps.MarkerImage(
+                        "http:////maps.gstatic.com/mapfiles/ms2/micons/man.png",
+                        new google.maps.Size(32, 32)
+                    ),
+                zIndex: match ? 100 : 1
             };
             var marker = new google.maps.Marker(markerOptions);
             var content = personTemplate(info);
@@ -100,7 +110,77 @@ $(function () {
                 infoWindow.setContent(content);
                 infoWindow.open(map, marker);
             });
-            peopleMarkers.push(marker);
+            if (match) {
+                ottoPositions.push({ start: match[1], end: match[2], marker: marker });
+            } else {
+                peopleMarkers.push(marker);
+            }
+        });
+        plotOtto();
+        showPeriod(-1);
+    }
+
+    function eraseLines() {
+        _.each(peopleLines, function (line) {
+            line.setMap(null);
+        });
+        peopleLines = [];
+    }
+
+    function drawPeopleLines() {
+        eraseLines();
+        var item = currentDisplayedIndex === -1 ? null : ottoPositions[currentDisplayedIndex];
+        if (!item || displayMode !== "people") {
+            return;
+        }
+        _.each(peopleMarkers, function (m) {
+            var line = new google.maps.Polyline({
+                path: [item.marker.getPosition(), m.getPosition()],
+                strokeColor: "#FF0000",
+                strokeOpacity: 1.0,
+                strokeWeight: 2
+            });
+            line.setMap(map);
+            peopleLines.push(line);
+        });
+    }
+
+    function showPeriod(index) {
+        if (currentDisplayedIndex === index) {
+            return;
+        }
+        currentDisplayedIndex = index;
+        var item = index === -1 ? null : ottoPositions[index];
+        if (item) {
+            _.each(ottoPositions, function (p) {
+                if (p === item) {
+                    if (!p.marker.getMap()) {
+                        item.marker.setMap(map);
+                    }
+                } else {
+                    p.marker.setMap(null);
+                }
+            });
+        } else {
+            _.each(ottoPositions, function (p) {
+                if (!p.marker.getMap()) {
+                    p.marker.setMap(map);
+                }
+            });
+        }
+        drawPeopleLines();
+    }
+
+    function addYearItem(text) {
+        var el = $("<div><span>" + text + "</span></div>");
+        $("#years").append(el);
+        return el;
+    }
+
+    function plotOtto() {
+        _.each(ottoPositions, function (item, index) {
+            var el = addYearItem(item.start + " - " + item.end);
+            el.mouseover(function () { showPeriod(index); });
         });
     }
 
@@ -118,6 +198,7 @@ $(function () {
         _.each(buildingMarkers, function (marker) {
             marker.setMap(displayMode === "buildings" ? map : null);
         });
+        drawPeopleLines();
     });
 
     $.ajax({
@@ -130,4 +211,5 @@ $(function () {
         success: processNetworkData
     });
 
+    addYearItem("all").mouseover(function () { showPeriod(-1); });
 });

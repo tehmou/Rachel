@@ -64,7 +64,7 @@ $(function () {
             };
             markerOptions.icon = new google.maps.MarkerImage(
                 //"http://timotuominen.fi/rachel/thumbnails/" + info.image + ".jpg",
-                info.iconfile ? info.iconfile : (info.built ? "building.png" : "planed_building.png"),
+                info.iconfile ? "img/" + info.iconfile : (info.built ? "img/building.png" : "img/planed_building.png"),
                 new google.maps.Size(64, 64),
                 new google.maps.Point(0, 0),
                 new google.maps.Point(32, 32)
@@ -99,20 +99,20 @@ $(function () {
                         new google.maps.Point(45, 45)
                     ) :
                     new google.maps.MarkerImage(
-                        "http:////maps.gstatic.com/mapfiles/ms2/micons/man.png",
+                        "img/man.png",
                         new google.maps.Size(32, 32)
                     ),
                 zIndex: match ? 100 : 1
             };
             var marker = new google.maps.Marker(markerOptions);
             var content = personTemplate(info);
-            google.maps.event.addListener(marker, "click", function () {
-                infoWindow.setContent(content);
-                infoWindow.open(map, marker);
-            });
             if (match) {
                 ottoPositions.push({ start: match[1], end: match[2], marker: marker });
             } else {
+                google.maps.event.addListener(marker, "click", function () {
+                    infoWindow.setContent(content);
+                    infoWindow.open(map, marker);
+                });
                 peopleMarkers.push(marker);
             }
         });

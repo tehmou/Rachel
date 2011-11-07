@@ -8,7 +8,7 @@ $(function () {
     var peopleMarkers = [];
     var peopleLines = [];
     var ottoPositions = [];
-    var currentDisplayedIndex = -1;
+    var currentDisplayedIndex = null;
     var displayMode = "buildings";
 
     function createMap () {

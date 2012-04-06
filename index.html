@@ -24,58 +24,81 @@
             position: absolute;
             width: 100%;
             height: 100%;
+            font-size: 12px;
         }
-        
+
+        #top {
+            position: absolute;
+            height: 120px;
+            width: 100%;
+            top: 0;
+            background: white;
+        }
+
+        #footer {
+            position: absolute;
+            height: 120px;
+            width: 100%;
+            bottom: 0;
+            background: white;
+            border-top: 2px solid black;
+        }
+
+        #footer>div {
+            display:inline-block;
+            vertical-align: top;
+            width: 30%;
+            margin-left: 20px;
+            height: 100%;
+        }
+        .border-right {
+            border-right: 3px solid black;
+        }
         #map-canvas {
             position: absolute;
             width: 100%;
-            height: 100%;
-        }
-
-        #left {
-            position: relative;
-            top: 20px;
-            left: 20px;
-            z-index: 1;
-        }
-
-        #years {
-            position: relative;
-            padding: 7px;
-            border-radius: 8px;
-            border: 1px solid black;
-            background: white;
-            width: 140px;
-            text-align: center;
-        }
-        
-        #toggle-button {
-            cursor: pointer;
-            cursor: hand;
-            position: fixed;
-            right: 30px;
-            bottom: 30px;
-            padding: 5px 10px;
-            margin: 0;
-            background: white;
-            border: 2px solid #999;
-            border-radius: 6px;
-        }
-
-        #toggle-button:hover {
-            border-color: black;
+            top: 120px;
+            bottom: 120px;
         }
 
     </style>
 </head>
 <body>
-    <div id="map-canvas"></div>
-    <div id="left">
-        <h1 id="title"></h1>
-        <div id="years"></div>
-    </div>
 
-    <h1 id="toggle-button">Toggle View</h1>
+    <div id="top">
+        <div id="title">
+            <h1>OTTO KOENIGSBERGER</h1>
+            <h2>PROJECTS + NETWORKS (1908-1951)</h2>
+        </div>
+    </div>
+    <div id="map-canvas"></div>
+    <div id="footer">
+        <div class="border-right">
+            <h2>1908-1933: GERMANY</h2>
+            <span>
+                <b>1908</b> Born in Berlin<br />
+                <b>1927-1931</b> Studied at the TH Berlin under Hans Poelzig<br />
+                <b>1932-1933</b> Government architect<br />
+                <b>1933</b> Schinkel Prize for Architecture
+            </span>
+        </div>
+        <div class="border-right">
+            <h2>1933-1939: EGYPT, SWITZERLAND</h2>
+            <span>
+                <b>1933-1934</b> Assistant to Ludwig Borchardt, Cairo<br />
+                <b>1934-1935</b> Dissertation in Berlin<br />
+                <b>1935-1939</b> Assistant to Borchardt, Cairo and Davos
+            </span>
+        </div>
+        <div>
+            <h2>1939-1951: INDIA</h2>
+            <span>
+                <b>1939-1948</b> Chief Architect and Planner, Princely Mysore State; Freelance architect and planner<br />
+                <b>1948-1951</b> Director of Housing, Government of India<br />
+                <b>1951</b> Migration to UK
+            </span>
+        </div>
+    </div>
 
     <script id="info-template" type="text/html">
         <div><h2><%= t('name') %></h2>

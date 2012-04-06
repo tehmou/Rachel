@@ -51,7 +51,6 @@ $(function () {
     }
 
     function processPlaceData (data) {
-        $("#title").text($(data).find("Document>name").text());
         var bounds = new google.maps.LatLngBounds();
         $(data).find("Placemark").each(function () {
 

@@ -17,7 +17,7 @@ info.ottokoenigsberger.placeParser = {
         return result;
     },
 
-    processData: funci(data) {
+    processData: function (data) {
         $("#title").text($(data).find("Document>name").text());
 
         var bounds = new google.maps.LatLngBounds();

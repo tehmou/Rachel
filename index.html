@@ -26,15 +26,22 @@
             height: 100%;
             font-size: 12px;
         }
-
+        #title {
+            padding: 0 20px;
+        }
         #top {
             position: absolute;
-            height: 120px;
+            height: 100px;
             width: 100%;
             top: 0;
             background: white;
+            border-bottom: 2px solid black;
         }
-
+        #top>div {
+            display:inline-block;
+            vertical-align: top;
+            height: 100%;
+        }
         #footer {
             position: absolute;
             height: 120px;
@@ -43,7 +50,6 @@
             background: white;
             border-top: 2px solid black;
         }
-
         #footer>div {
             display:inline-block;
             vertical-align: top;
@@ -57,21 +63,44 @@
         #map-canvas {
             position: absolute;
             width: 100%;
-            top: 120px;
+            top: 100px;
             bottom: 120px;
+        }
+        .button {
+            width: 100px;
+            text-align: center;
         }
 
     </style>
 </head>
 <body>
-
+    <div id="map-canvas"></div>
     <div id="top">
-        <div id="title">
+        <div id="title" class="border-right">
             <h1>OTTO KOENIGSBERGER</h1>
             <h2>PROJECTS + NETWORKS (1908-1951)</h2>
         </div>
+        <div id="building-button" class="button border-right">
+            <img src="img/building.png" alt=""/>
+            <span>ARCHITECTURE (realised)</span>
+        </div>
+        <div id="architecture-button" class="button border-right">
+            <img src="img/planed_building.png" alt=""/>
+            <span>ARCHITECTURE (not realised)</span>
+        </div>
+        <div id="planned-housing-button" class="button border-right">
+            <img src="img/plan-01.png" alt=""/>
+            <span>PLANNING + HOUSING</span>
+        </div>
+        <div id="research-publication-button" class="button border-right">
+            <img src="img/book.png" alt="">
+            <span>RESEARCH + PUBLICATION</span>
+        </div>
+        <div id="contact-networks-button" class="button border-right">
+            <img src="img/man_button.png" alt="">
+            <span>CONTACT + NETWORKS</span>
+        </div>
     </div>
-    <div id="map-canvas"></div>
     <div id="footer">
         <div class="border-right">
             <h2>1908-1933: GERMANY</h2>

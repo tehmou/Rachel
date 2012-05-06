@@ -70,9 +70,16 @@
         .button {
             width: 100px;
             text-align: center;
+            cursor: default;
+        }
+        .button:hover {
+            background: #eeeeee;
         }
         .button.selected {
-            background: red;
+            background: #ffdddd;
+        }
+        .button.selected:hover {
+            background: #ffcccc;
         }
 
     </style>
@@ -83,19 +90,19 @@
         <div id="title" class="border-right">
             <h1>OTTO KOENIGSBERGER</h1>
             <h2>PROJECTS + NETWORKS (1908-1951)</h2>
-        </div><div id="building-button" class="button border-right">
+        </div><div id="architectureRealized-button" class="button border-right">
             <img src="img/building.png" alt=""/>
             <span>ARCHITECTURE (realised)</span>
-        </div><div id="architecture-button" class="button border-right">
+        </div><div id="architectureNotRealized-button" class="button border-right">
             <img src="img/planed_building.png" alt=""/>
             <span>ARCHITECTURE (not realised)</span>
-        </div><div id="planned-housing-button" class="button border-right">
+        </div><div id="planning-button" class="button border-right">
             <img src="img/plan-01.png" alt=""/>
             <span>PLANNING + HOUSING</span>
-        </div><div id="research-publication-button" class="button border-right">
+        </div><div id="research-button" class="button border-right">
             <img src="img/book.png" alt="">
             <span>RESEARCH + PUBLICATION</span>
-        </div><div id="contact-networks-button" class="button border-right">
+        </div><div id="contacts-button" class="button border-right">
             <img src="img/man_button.png" alt="">
             <span>CONTACT + NETWORKS</span>
         </div>

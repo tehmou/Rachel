@@ -3,8 +3,14 @@ function createMap (data, network) {
     var infoWindow;
     var infoTemplate = _.template($("#info-template").text());
     var personTemplate = _.template($("#person-template").text());
-    var buildingMarkers = [];
-    var peopleMarkers = [];
+
+    var markers = {
+        architectureRealized: [],
+        architectureNotRealized: [],
+        planning: [],
+        research: [],
+        contacts: []
+    };
 
     function createMap () {
         var latlng = new google.maps.LatLng(-34.397, 150.644);
@@ -70,7 +76,16 @@ function createMap (data, network) {
                 infoWindow.open(map, marker);
             });
             bounds.extend(coord);
-            buildingMarkers.push(marker);
+
+            if (iconFile === "img/plan-01.png") {
+                markers.planning.push(marker);
+            } else if (iconFile === "img/book.png") {
+                markers.research.push(marker);
+            } else if (info.built) {
+                markers.architectureRealized.push(marker);
+            } else {
+                markers.architectureNotRealized.push(marker);
+            }
         });
 
         map.fitBounds(bounds);
@@ -106,7 +121,7 @@ function createMap (data, network) {
                     infoWindow.setContent(content);
                     infoWindow.open(map, marker);
                 });
-                peopleMarkers.push(marker);
+                markers.contacts.push(marker);
             }
         });
     }
@@ -116,8 +131,7 @@ function createMap (data, network) {
     processNetworkData(network);
 
     return {
-        buildingMarkers: buildingMarkers,
-        peopleMarkers: peopleMarkers,
+        markers: markers,
         map: map
     }
 }

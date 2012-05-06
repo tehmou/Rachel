@@ -13,7 +13,8 @@
     <script src="lib/underscore.js"></script>
     <script src="lib/backbone.js"></script>
 
-    <script src="code.js" type="text/javascript"></script>
+    <script src="js/map.js" type="text/javascript"></script>
+    <script src="js/code.js" type="text/javascript"></script>
 
     <style type="text/css">
 
@@ -70,6 +71,9 @@
             width: 100px;
             text-align: center;
         }
+        .button.selected {
+            background: red;
+        }
 
     </style>
 </head>
@@ -79,24 +83,19 @@
         <div id="title" class="border-right">
             <h1>OTTO KOENIGSBERGER</h1>
             <h2>PROJECTS + NETWORKS (1908-1951)</h2>
-        </div>
-        <div id="building-button" class="button border-right">
+        </div><div id="building-button" class="button border-right">
             <img src="img/building.png" alt=""/>
             <span>ARCHITECTURE (realised)</span>
-        </div>
-        <div id="architecture-button" class="button border-right">
+        </div><div id="architecture-button" class="button border-right">
             <img src="img/planed_building.png" alt=""/>
             <span>ARCHITECTURE (not realised)</span>
-        </div>
-        <div id="planned-housing-button" class="button border-right">
+        </div><div id="planned-housing-button" class="button border-right">
             <img src="img/plan-01.png" alt=""/>
             <span>PLANNING + HOUSING</span>
-        </div>
-        <div id="research-publication-button" class="button border-right">
+        </div><div id="research-publication-button" class="button border-right">
             <img src="img/book.png" alt="">
             <span>RESEARCH + PUBLICATION</span>
-        </div>
-        <div id="contact-networks-button" class="button border-right">
+        </div><div id="contact-networks-button" class="button border-right">
             <img src="img/man_button.png" alt="">
             <span>CONTACT + NETWORKS</span>
         </div>

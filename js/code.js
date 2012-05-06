@@ -2,8 +2,21 @@ $(function () {
 
     var map;
 
-    function update () {
+    var model = new Backbone.Model({
+        architectureRealized: true,
+        architectureNotRealized: true,
+        planning: true,
+        research: true,
+        contacts: true
+    });
 
+    function update () {
+        _.each(map.buildingMarkers, function (marker) {
+            marker.setMap(map.map);
+        });
+        _.each(map.peopleMarkers, function (marker) {
+            marker.setMap(map.map);
+        });
     }
 
 

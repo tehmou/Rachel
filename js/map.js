@@ -53,7 +53,6 @@ function createMap (data, network) {
             var info = processInfo(this);
             var markerOptions = {
                 position: coord,
-                map: map,
                 zIndex: 1
             };
             var iconFile = info.iconfile ? "img/" + info.iconfile : (info.built ? "img/building.png" : "img/planed_building.png");
@@ -118,6 +117,7 @@ function createMap (data, network) {
 
     return {
         buildingMarkers: buildingMarkers,
-        peopleMarkers: peopleMarkers
+        peopleMarkers: peopleMarkers,
+        map: map
     }
 }

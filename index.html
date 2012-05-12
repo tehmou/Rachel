@@ -91,16 +91,16 @@
             <h1>OTTO KOENIGSBERGER</h1>
             <h2>PROJECTS + NETWORKS (1908-1951)</h2>
         </div><div id="architectureRealized-button" class="button border-right">
-            <img src="img/building.png" alt=""/>
+            <img src="img/architectureRealized.png" alt=""/>
             <span>ARCHITECTURE (realised)</span>
         </div><div id="architectureNotRealized-button" class="button border-right">
-            <img src="img/planed_building.png" alt=""/>
+            <img src="img/architectureNotRealized.png" alt=""/>
             <span>ARCHITECTURE (not realised)</span>
         </div><div id="planning-button" class="button border-right">
-            <img src="img/plan-01.png" alt=""/>
+            <img src="img/planning.png" alt=""/>
             <span>PLANNING + HOUSING</span>
         </div><div id="research-button" class="button border-right">
-            <img src="img/book.png" alt="">
+            <img src="img/research.png" alt="">
             <span>RESEARCH + PUBLICATION</span>
         </div><div id="contacts-button" class="button border-right">
             <img src="img/man_button.png" alt="">
@@ -137,8 +137,9 @@
 
     <script id="info-template" type="text/html">
         <div><h2><%= t('name') %></h2>
-        <a href="http://timotuominen.fi/rachel/<%= t('image') %>.jpg" target="_blank" style="display: <%= t('image') === "" ? "none" : "block" %>">
-            <img src="http://timotuominen.fi/rachel/thumbnails/<%= t('image') %>.jpg" style="float: left; border: none; margin-right: 4px" />
+        <a href="Project Images/<%= t('image') %>.jpg" target="_blank" style="display: <%= t('image') === "" ? "none" : "block" %>">
+            image
+            <!--<img src="http://timotuominen.fi/rachel/thumbnails/<%= t('image') %>.jpg" style="float: left; border: none; margin-right: 4px" />-->
         </a>
         <p>Planned: <%= t('planned') %><br />
         Built: <%= t('built') %></p>
@@ -147,6 +148,10 @@
 
     <script id="person-template" type="text/html">
         <div><h2><%= t('name') %></h2>
+            <a href="Network Images/<%= t('image') %>.jpg" target="_blank" style="display: <%= t('image') === "" ? "none" : "block" %>">
+            image
+            <!--<img src="http://timotuominen.fi/rachel/thumbnails/<%= t('image') %>.jpg" style="float: left; border: none; margin-right: 4px" />-->
+            </a>
             <p>Lifetime: <%= t('lifetime') %><br />
             Profession: <%= t('profession') %><br />
             Network: <%= t('network') %><br />

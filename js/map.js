@@ -61,7 +61,8 @@ function createMap (data, network) {
                 position: coord,
                 zIndex: 1
             };
-            var iconFile = info.iconfile ? "img/" + info.iconfile : (info.built ? "img/building.png" : "img/planed_building.png");
+            var type = resolveType(info);
+            var iconFile = "img/" + type + ".png";
             markerOptions.icon = new google.maps.MarkerImage(
                 iconFile,
                 new google.maps.Size(64, 64),
@@ -77,18 +78,26 @@ function createMap (data, network) {
             });
             bounds.extend(coord);
 
-            if (iconFile === "img/plan-01.png") {
-                markers.planning.push(marker);
-            } else if (iconFile === "img/book.png") {
-                markers.research.push(marker);
-            } else if (info.built) {
-                markers.architectureRealized.push(marker);
-            } else {
-                markers.architectureNotRealized.push(marker);
-            }
+            markers[type].push(marker);
         });
 
         map.fitBounds(bounds);
+    }
+
+    function resolveType (info) {
+        var type = info["project type"] ? info["project type"].toLowerCase() : "";
+        if (type === "planning") {
+            return "planning";
+        } else if (type === "publication") {
+            return "research";
+        } else if (type === "architecture") {
+            if (info.realised === "Yes") {
+                return "architectureRealized";
+            } else {
+                return "architectureNotRealized";
+            }
+        }
+        return "contacts";
     }
 
     function processNetworkData (data) {

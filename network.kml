@@ -3,7 +3,7 @@
 <Document>
   <name>Network of Influence 1908-1951</name>
   <description><![CDATA[]]></description>
-  <Style id="style16">
+  <Style id="style19">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
@@ -17,147 +17,35 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style69">
+  <Style id="style82">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style10">
+  <Style id="style11">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style21">
+  <Style id="style26">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style33">
+  <Style id="style39">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style22">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style43">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style1">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style55">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style29">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style5">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style28">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style73">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style31">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style52">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style13">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style62">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style20">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style71">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style44">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style40">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style66">
+  <Style id="style27">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
@@ -171,21 +59,77 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style41">
+  <Style id="style1">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style56">
+  <Style id="style35">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style27">
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
@@ -206,182 +150,14 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style32">
+  <Style id="style79">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style3">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style46">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style39">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style19">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style64">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style60">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style24">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style23">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style30">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style14">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style61">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style35">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style50">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style11">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style4">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style74">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style17">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style25">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style12">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style8">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style67">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style65">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style37">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style26">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style45">
+  <Style id="style66">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
@@ -395,63 +171,28 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style9">
+  <Style id="style68">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style58">
+  <Style id="style32">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style36">
+  <Style id="style67">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style42">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style34">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style75">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style15">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style47">
-    <IconStyle>
-      <Icon>
-        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
-      </Icon>
-    </IconStyle>
-  </Style>
-  <Style id="style72">
+  <Style id="style61">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
@@ -465,7 +206,14 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style63">
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
@@ -479,6 +227,342 @@
       </Icon>
     </IconStyle>
   </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/woman.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
   <Style id="style57">
     <IconStyle>
       <Icon>
@@ -486,7 +570,21 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style68">
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/man.png</href>
@@ -500,7 +598,7 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style59">
+  <Style id="style71">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
@@ -514,14 +612,14 @@
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style70">
+  <Style id="style83">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
       </Icon>
     </IconStyle>
   </Style>
-  <Style id="style18">
+  <Style id="style22">
     <IconStyle>
       <Icon>
         <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue.png</href>
@@ -530,15 +628,15 @@
   </Style>
   <Placemark>
     <name>Georg Koenigsberger</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1873-1932<br>Network: Family, Government of Berlin<br>Profession: Architect, Chief Government Building Officer of Koepenick, Berlin<br><br>Knew Otto Koenigsberger from: 1908</div>]]></description>
-    <styleUrl>#style16</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1873-1932<br>Network: Family, Government of Berlin<br>Profession: Architect, Chief Government Building Officer of Treptow, Berlin<br>Initial Contact: 1908<br>Image: Georg-Koenigsberger</div>]]></description>
+    <styleUrl>#style19</styleUrl>
     <Point>
       <coordinates>13.582572,52.415665,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Julius Posener</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1904-1996<br>Network: TH Berlin, Poelzig Seminar<br>Profession: Architect, Architectural Historian <br><br>Knew Otto Koenigsberger from: 1929</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1904-1996<br>Network: TH Berlin, Poelzig Seminar<br>Profession: Architect, Architectural Historian <br>Initial Contact: 1929<br>Image: Julius-Posener</div>]]></description>
     <styleUrl>#style7</styleUrl>
     <Point>
       <coordinates>13.327832,52.512211,0.000000</coordinates>
@@ -546,79 +644,71 @@
   </Placemark>
   <Placemark>
     <name>Walter Segal</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1907-1985<br>Network: TH Berlin, Poelzig Seminar<br>Profession: Architect<br><br>Knew Otto Koenigsberger from: 1929</div>]]></description>
-    <styleUrl>#style69</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1907-1985<br>Network: TH Berlin, Poelzig Seminar, Ludwig Borchardt Institute<br>Profession: Architect<br>Initial Contact: 1929<br>Image: Walter-Segal</div>]]></description>
+    <styleUrl>#style82</styleUrl>
     <Point>
       <coordinates>13.328133,52.512173,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Hans Poelzig</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1868-1936<br>Network: TH Berlin, Poelzig Seminar, Werkbund, Ring<br>Profession: Architect, Artist, Professor at TH Berlin<br><br>Knew Otto Koenigsberger from: 1930</div>]]></description>
-    <styleUrl>#style10</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1868-1936<br>Network: TH Berlin, Poelzig Seminar<br>Profession: Architect, Artist, Professor at TH Berlin<br>Initial Contact: 1930<br>Image: Hans-Poelzig</div>]]></description>
+    <styleUrl>#style11</styleUrl>
     <Point>
       <coordinates>13.326180,52.512192,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Heinrich Tessenow</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1876-1950<br>Network: TH Berlin, Werkbund, Ring<br>Profession: Architect, Professor at TH Berlin<br><br>Knew Otto Koenigsberger from: 1930</div>]]></description>
-    <styleUrl>#style21</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1876-1950<br>Network: TH Berlin<br>Profession: Architect, Professor at TH Berlin<br>Initial Contact: 1930<br>Image: Tessenow</div>]]></description>
+    <styleUrl>#style26</styleUrl>
     <Point>
       <coordinates>13.326609,52.512119,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Bruno Taut</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1880-1938<br>Network: TH Berlin, Werkbund, Ring<br>Profession: Architect, Planner, Professor at TH Berlin.<br><br>Knew Otto Koenigsberger from: 1931</div>]]></description>
-    <styleUrl>#style33</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1880-1938<br>Network: TH Berlin, Settlement and Housing Seminar<br>Profession: Architect, Planner, Professor at TH Berlin.<br>Initial Contact: 1931<br>Image: Bruno-Taut</div>]]></description>
+    <styleUrl>#style39</styleUrl>
     <Point>
       <coordinates>13.326180,52.511978,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Hermann Jansen</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1869-1945<br>Network: TH Berlin<br>Profession: Planner, Professor at TH Berlin<br><br>Knew Otto Koenigsberger from: 1930</div>]]></description>
-    <styleUrl>#style22</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1869-1945<br>Network: TH Berlin<br>Profession: Planner, Professor at TH Berlin<br>Initial Contact: 1930<br>Image: Hermann-Jansen</div>]]></description>
+    <styleUrl>#style27</styleUrl>
     <Point>
       <coordinates>13.325804,52.512115,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Daniel Krencker</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1874-1941<br>Network: TH Berlin<br>Profession: Architectural Historian, Building Researcher, Professor at TH Berlin<br><br>Knew Otto Koenigsberger from: 1929</div>]]></description>
-    <styleUrl>#style43</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1874-1941<br>Network: TH Berlin, Ludwig Borchardt Institute<br>Profession: Architectural Historian, Building Researcher, Professor at TH Berlin<br>Initial Contact: 1929<br>Image: Daniel-Krencker</div>]]></description>
+    <styleUrl>#style53</styleUrl>
     <Point>
       <coordinates>13.325912,52.511707,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Walter Andrae</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1875-1956<br>Network: TH Berlin<br>Profession: Architectural Historian, Building Researcher, Professor at TH Berlin<br><br>Knew Otto Koenigsberger from: 1929</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1875-1956<br>Network: TH Berlin<br>Profession: Architectural Historian, Building Researcher, Professor at TH Berlin<br>Initial Contact: 1929<br>Image: Walter-Andrae</div>]]></description>
     <styleUrl>#style1</styleUrl>
     <Point>
       <coordinates>13.326266,52.511723,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>Ernst May</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1886-1970<br>Network: Werkbund<br>Profession: Architect, Planner<br><br>Knew Otto Koenigsberger from: 1931 ?</div>]]></description>
-    <styleUrl>#style55</styleUrl>
-    <Point>
-      <coordinates>8.689499,50.106049,0.000000</coordinates>
-    </Point>
-  </Placemark>
-  <Placemark>
     <name>Ernst Maas</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Family<br>Profession: ?<br><br>Knew Otto Koenigsberger from: 1908 ?</div>]]></description>
-    <styleUrl>#style29</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Family, Ludwig Borchardt Institute<br>Profession: ?<br>Initial Contact: 1908</div>]]></description>
+    <styleUrl>#style35</styleUrl>
     <Point>
       <coordinates>13.582959,52.415382,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Alfred Breslauer</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1866-1954<br>Network: Family, Government of Berlin<br>Profession: Architect, Professor, Chief Government Building Officer, Berlin<br><br>Knew Otto Koenigsberger from: 1908 ?</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1866-1954<br>Network: Family, Ludwig Borchardt Institute<br>Profession: Architect, Professor, Chief Government Building Officer, Berlin<br>Initial Contact: 1933<br>Image:</div>]]></description>
     <styleUrl>#style5</styleUrl>
     <Point>
       <coordinates>13.285813,52.472748,0.000000</coordinates>
@@ -626,151 +716,151 @@
   </Placemark>
   <Placemark>
     <name>Ludwig Borchardt</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1863-1938<br>Network: Swiss Institute<br>Profession: Archaeologist, Egyptologist<br><br>Knew Otto Koenigsberger from: 1933</div>]]></description>
-    <styleUrl>#style28</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1863-1938<br>Network: Ludwig Borchardt Institute<br>Profession: Archaeologist, Architect, Egyptologist<br>Initial Contact: 1933<br>Image: Ludwig-Borchardt</div>]]></description>
+    <styleUrl>#style33</styleUrl>
     <Point>
-      <coordinates>31.224636,30.060200,0.000000</coordinates>
+      <coordinates>31.224281,30.061415,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>Max Born 1</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1970<br>Network: Family, Indian Institute of Science<br>Profession: Physicist, Professor of Physics<br><br>Knew Otto Koenigsberger from: 1908</div>]]></description>
-    <styleUrl>#style73</styleUrl>
+    <name>Max Born 1 </name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1970<br>Network: Family, Ludwig Borchardt Institute, Indian Institute of Science, Mysore<br>Profession: Physicist, Professor of Physics<br>Initial Contact: 1908<br>Image: Max-Born</div>]]></description>
+    <styleUrl>#style87</styleUrl>
     <Point>
       <coordinates>9.937134,51.533150,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Max Born 2</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1970<br>Network: Family, Indian Institute of Science<br>Profession: Physicist, Professor of Physics<br><br>Knew Otto Koenigsberger from: 1908</div>]]></description>
-    <styleUrl>#style31</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1970<br>Network: Family, Indian Institute of Science<br>Profession: Physicist, Professor of Physics<br>Initial Contact: 1908<br>Image: Max-Born</div>]]></description>
+    <styleUrl>#style37</styleUrl>
     <Point>
       <coordinates>0.127180,52.201294,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Max Born 3</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1970<br>Network: Family, Indian Institute of Science<br>Profession: Physicist, Professor of Physics<br><br>Knew Otto Koenigsberger from: 1908</div>]]></description>
-    <styleUrl>#style52</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1970<br>Network: Family, Indian Institute of Science<br>Profession: Physicist, Professor of Physics<br>Initial Contact: 1908<br>Image: Max-Born</div>]]></description>
+    <styleUrl>#style65</styleUrl>
     <Point>
       <coordinates>77.567101,13.016746,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Max Born 4</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1970<br>Network: Family, Indian Institute of Science<br>Profession: Physicist, Professor of Physics<br><br>Knew Otto Koenigsberger from: 1908<br></div>]]></description>
-    <styleUrl>#style13</styleUrl>
+    <description><![CDATA[<div dir="ltr"><font face="arial" size="2" style="font-family:arial;font-size:10pt">Lifetime: 1882-1970</font><br><font face="arial" size="2" style="font-family:arial;font-size:10pt">Network: Family, Indian Institute of Science</font><br><font face="arial" size="2" style="font-family:arial;font-size:10pt">Profession: Physicist, Professor of Physics</font><br><font face="arial" size="2"><font size="2">Initial Contact:<font size="2">&nbsp;1908</font></font></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="2"><font face="arial">Image:&nbsp;Max-Born</font><br></font><font face="arial" size="2" style="font-family:arial;font-size:10pt">&nbsp;</font></div>]]></description>
+    <styleUrl>#style15</styleUrl>
     <Point>
       <coordinates>-3.187065,55.947300,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Herbert Ricke</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1901-1976<br>Network: Swiss Institute<br>Profession: Archaeologist, Egyptologist<br><br>Knew Otto Koenigsberger from: 1933</div>]]></description>
-    <styleUrl>#style62</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1901-1976<br>Network: Ludwig Borchardt Institute<br>Profession: Archaeologist, Egyptologist<br>Initial Contact: 1933<br>Image: Herbert-Ricke</div>]]></description>
+    <styleUrl>#style74</styleUrl>
     <Point>
-      <coordinates>31.224583,30.060347,0.000000</coordinates>
+      <coordinates>31.224272,30.061657,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Otto Rubensohn</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1867-1964<br>Network: Swiss Institute<br>Profession: Archaeologist, Egyptologist<br><br>Knew Otto Koenigsberger from: ?</div>]]></description>
-    <styleUrl>#style20</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1867-1964<br>Network: Ludwig Borchardt Institute<br>Profession: Archaeologist, Egyptologist<br>Initial Contact: 1933</div>]]></description>
+    <styleUrl>#style25</styleUrl>
     <Point>
-      <coordinates>31.224657,30.060097,0.000000</coordinates>
+      <coordinates>31.224346,30.061295,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Krishnaraja Wodeyar</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1884-1940<br>Network: Government of Mysore<br>Profession: Maharajah of Mysore State<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style71</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1884-1940<br>Network: Government of Mysore<br>Profession: Maharajah of Mysore State<br>Initial Contact: 1939<br>Image: Krishnaraja-Wodeyar</div>]]></description>
+    <styleUrl>#style85</styleUrl>
     <Point>
       <coordinates>77.592186,12.998317,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Jayachamraja Wodeyar</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1919-1974<br>Network: Government of Mysore<br>Profession: Maharajah of Mysore State<br><br>Knew Otto Koenigsberger from: 1940</div>]]></description>
-    <styleUrl>#style44</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1919-1974<br>Network: Government of Mysore<br>Profession: Maharajah of Mysore State<br>Initial Contact: 1940<br>Image: Jayachamaraja-Wodeyar</div>]]></description>
+    <styleUrl>#style54</styleUrl>
     <Point>
       <coordinates>77.592300,12.998427,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>Mirza Ismail</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1883-1959<br>Network: Government of Mysore<br>Profession: Dewan of Mysore State<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style40</styleUrl>
+    <name>Mirza Ismail </name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1883-1959<br>Network: Government of Mysore<br>Profession: Dewan of Mysore State<br>Initial Contact: 1939<br>Image: Mirza-Ismail</div>]]></description>
+    <styleUrl>#style49</styleUrl>
     <Point>
       <coordinates>77.593391,12.997972,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>N Madhava Rao</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1887-1972<br>Network: Government of Mysore<br>Profession: Dewan of Mysore State<br><br>Knew Otto Koenigsberger from: 1941</div>]]></description>
-    <styleUrl>#style66</styleUrl>
+    <name>N Madhava Rao </name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1887-1972<br>Network: Government of Mysore<br>Profession: Dewan of Mysore State<br>Initial Contact: 1941</div>]]></description>
+    <styleUrl>#style79</styleUrl>
     <Point>
       <coordinates>77.593155,12.997554,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>A Ramaswamy Mudaliar</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1887-1976<br>Network: Government of Mysore<br>Profession: Dewan of Mysore State<br><br>Knew Otto Koenigsberger from: 1946</div>]]></description>
-    <styleUrl>#style53</styleUrl>
+    <name>A Ramaswamy Mudaliar </name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1887-1976<br>Network: Government of Mysore<br>Profession: Dewan of Mysore State<br>Initial Contact: 1946<br>Image: A-R-Mudaliar</div>]]></description>
+    <styleUrl>#style66</styleUrl>
     <Point>
       <coordinates>77.592896,12.996926,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Gustav Krumbiegel</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1865-1956<br>Network: Government of Mysore<br>Profession: Chief Horticulturalist, Botanist, Landscape Architect of Mysore State<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style41</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1865-1956<br>Network: Government of Mysore<br>Profession: Chief Horticulturalist, Botanist, Landscape Architect of Mysore State<br>Initial Contact: 1939<br>Image: Gustav-Krumbiegel</div>]]></description>
+    <styleUrl>#style51</styleUrl>
     <Point>
       <coordinates>77.584679,12.951071,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Homi Bhabha</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1909-1966<br>Network: Indian Institute of Science<br>Profession: Physicist<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style56</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1909-1966<br>Network: Indian Institute of Science<br>Profession: Physicist<br>Initial Contact: 1939<br>Image: Homi-Bhabha2</div>]]></description>
+    <styleUrl>#style68</styleUrl>
     <Point>
       <coordinates>77.566803,13.016673,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Brinitzer Family (Walter Brinitzer)</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1910<br>Network: Mysore<br>Profession: Doctors<br>Knew Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style27</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1910-?<br>Network: Mysore<br>Profession: Doctors<br>Initial Contact: 1939<br>Image: Walter-Brinitzer</div>]]></description>
+    <styleUrl>#style32</styleUrl>
     <Point>
       <coordinates>77.589569,12.989190,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Jamshed Bhabha</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1914-2007<br>Network: Tata<br>Profession: Executive at Tata &amp; Sons<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style54</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1914-2007<br>Network: Tata<br>Profession: Executive at Tata &amp; Sons<br>Initial Contact: 1939<br>Image: Jamshed-Bhabha</div>]]></description>
+    <styleUrl>#style67</styleUrl>
     <Point>
       <coordinates>72.832687,18.931595,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Vikram Sarabhai</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1919-1971<br>Network: Indian Institute of Science<br>Profession: Nuclear Physicist<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style49</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1919-1971<br>Network: Indian Institute of Science<br>Profession: Nuclear Physicist<br>Acquainted from: 1939<br>Image: Vikram-Sarabhai</div>]]></description>
+    <styleUrl>#style61</styleUrl>
     <Point>
       <coordinates>77.566681,13.016663,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Thomas Edmondson</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Bengal<br>Profession: Government Architect<br><br>Knew Otto Koenigsberger from: 1940</div>]]></description>
-    <styleUrl>#style32</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Bengal<br>Profession: Government Architect<br>Initial Contact: 1940</div>]]></description>
+    <styleUrl>#style38</styleUrl>
     <Point>
       <coordinates>88.365288,22.597256,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Rabindranath Tagore</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1861-1941<br>Network: Indian Elite<br>Profession: Poet<br><br>Knew Otto Koenigsberger from: 1940</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1861-1941<br>Network: <br>Profession: Poet<br>Initial Contact: 1940<br>Image: Rabindranath-Tagore</div>]]></description>
     <styleUrl>#style3</styleUrl>
     <Point>
       <coordinates>87.686043,23.680937,0.000000</coordinates>
@@ -778,111 +868,111 @@
   </Placemark>
   <Placemark>
     <name>Mr Keatinge</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Bengal<br>Profession: Government Engineer<br><br>Knew Otto Koenigsberger from: 1940</div>]]></description>
-    <styleUrl>#style46</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Bengal<br>Profession: Government Engineer<br>Initial Contact: 1940</div>]]></description>
+    <styleUrl>#style58</styleUrl>
     <Point>
       <coordinates>88.365135,22.597202,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Henry Medd</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1892-1977<br>Network: Government of Central India<br>Profession: Government Architect<br><br>Knew Otto Koenigsberger from: 1940</div>]]></description>
-    <styleUrl>#style39</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1892-1977<br>Network: Government of Central India<br>Profession: Government Architect<br>Initial Contact: 1940</div>]]></description>
+    <styleUrl>#style48</styleUrl>
     <Point>
       <coordinates>77.211578,28.609285,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Jawaharlal Nehru</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1889-1964<br>Network: Government of India<br>Profession: Prime Minister of India<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style19</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1889-1964<br>Network: Government of India<br>Profession: Prime Minister of India<br>Initial Contact: 1948<br>Image: Jawaharlal-Nehru</div>]]></description>
+    <styleUrl>#style23</styleUrl>
     <Point>
       <coordinates>77.208115,28.617109,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Rajkumari Amrit Kaur</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1889-1964<br>Network: Government of India<br>Profession: Minister of Health<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style64</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1889-1964<br>Network: Government of India<br>Profession: Minister of Health<br>Initial Contact: 1948<br>Image: Rajkumari-Amrit-Kaur</div>]]></description>
+    <styleUrl>#style76</styleUrl>
     <Point>
       <coordinates>77.196938,28.622303,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>R Bahadur SN Bhaduri</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Central Provinces<br>Profession: Chief Engineer<br><br>Knew Otto Koenigsberger from: 1940</div>]]></description>
-    <styleUrl>#style60</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Central Provinces<br>Profession: Chief Engineer<br>Initial Contact: 1940</div>]]></description>
+    <styleUrl>#style72</styleUrl>
     <Point>
       <coordinates>78.172447,26.208315,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>George Goldstraw</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Rajastan<br>Profession: Chief Architect<br><br>Knew Otto Koenigsberger from: 1940</div>]]></description>
-    <styleUrl>#style24</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Rajastan<br>Profession: Chief Architect<br>Initial Contact: 1940</div>]]></description>
+    <styleUrl>#style29</styleUrl>
     <Point>
       <coordinates>73.024117,26.271599,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Mulk Raj Anand</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1905-2004<br>Network: MARG, Tata<br>Profession: Editor of MARG magazine, author<br><br>Knew Otto Koenigsberger from: 1945 ?</div>]]></description>
-    <styleUrl>#style23</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1905-2004<br>Network: MARG, Tata<br>Profession: Editor of MARG magazine, author<br>Initial Contact: 1945<br>Image: Mulk-Raj-Anand</div>]]></description>
+    <styleUrl>#style28</styleUrl>
     <Point>
       <coordinates>72.830940,18.928335,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Louise Ouwerkerk</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1904-1989<br>Network: Government of Travancore<br>Profession: Teacher, Author<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style30</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1904-1989<br>Network: Government of Travancore<br>Profession: Teacher, Author<br>Initial Contact: 1939</div>]]></description>
+    <styleUrl>#style36</styleUrl>
     <Point>
       <coordinates>76.948112,8.481615,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Van Ingen Family</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Mysore State<br>Profession: Taxidermists<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style14</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Mysore State<br>Profession: Taxidermists<br>Initial Contact: 1939<br>Image: Van-Ingen</div>]]></description>
+    <styleUrl>#style16</styleUrl>
     <Point>
       <coordinates>76.665817,12.300905,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>B Shiva Rao</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Politician, Journalist<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style61</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Politician, Journalist<br>Initial Contact: 1939<br>Image: B.-Shiva-Rao</div>]]></description>
+    <styleUrl>#style73</styleUrl>
     <Point>
       <coordinates>77.207733,28.616776,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Robert Heilig</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1897-?<br>Network: Government of Mysore<br>Profession: Chief Doctor<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style35</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1897-?<br>Network: Government of Mysore<br>Profession: Chief Doctor<br>Initial Contact: 1939<br>Image: Robert-Heilig</div>]]></description>
+    <styleUrl>#style42</styleUrl>
     <Point>
       <coordinates>76.649445,12.314993,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Roland Greeley</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1911-1999<br>Network: Government of India<br>Profession: Planner<br><br>Knew Otto Koenigsberger from: 1951</div>]]></description>
-    <styleUrl>#style50</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1911-1999<br>Network: Government of India<br>Profession: Planner<br>Initial Contact: 1951<br>Image: Roland-Greeley</div>]]></description>
+    <styleUrl>#style62</styleUrl>
     <Point>
       <coordinates>70.145988,23.064096,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Albert Mayer</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1897-1981<br>Network: Government of India<br>Profession: Planner<br><br>Knew Otto Koenigsberger from: 1948 ?</div>]]></description>
-    <styleUrl>#style11</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1897-1981<br>Network: Government of India<br>Profession: Architect, Planner<br>Initial Contact: 1948<br>Image: Albert-Mayer</div>]]></description>
+    <styleUrl>#style12</styleUrl>
     <Point>
       <coordinates>77.209000,28.615417,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Maxwell Fry</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1899-1987<br>Network: Government of India<br>Profession: Architect, Planner<br><br>Knew Otto Koenigsberger from: 1951</div>]]></description>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1899-1987<br>Network: Government of India<br>Profession: Architect, Planner<br>Initial Contact: 1951<br>Image: Maxwell-Fry</div>]]></description>
     <styleUrl>#style4</styleUrl>
     <Point>
       <coordinates>77.178551,31.087414,0.000000</coordinates>
@@ -890,202 +980,322 @@
   </Placemark>
   <Placemark>
     <name>Jane Drew</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1911-1996<br>Network: Government of India<br>Profession: Architect, Planner<br><br>Knew Otto Koenigsberger from: 1951</div>]]></description>
-    <styleUrl>#style74</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1911-1996<br>Network: Government of India<br>Profession: Architect, Planner<br>Initial Contact: 1951<br>Image: Jane-Drew</div>]]></description>
+    <styleUrl>#style88</styleUrl>
     <Point>
       <coordinates>77.179062,31.087339,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Le Corbusier</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1887-1965<br>Network: Government of India<br>Profession: Architect, Planner, Artist<br><br>Knew Otto Koenigsberger from: 1951</div>]]></description>
-    <styleUrl>#style17</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1887-1965<br>Network: Government of India<br>Profession: Architect, Planner, Artist<br>Initial Contact: 1951<br>Image: Le-Corbusier</div>]]></description>
+    <styleUrl>#style20</styleUrl>
     <Point>
       <coordinates>77.179619,31.087284,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Julius Vaz</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Orissa<br>Profession: Chief Architect<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style25</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Orissa<br>Profession: Chief Architect<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style30</styleUrl>
     <Point>
       <coordinates>85.826256,20.273560,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>JK Chowdury</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Punjab<br>Profession: Government Architect<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style12</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Punjab<br>Profession: Government Architect<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style13</styleUrl>
     <Point>
       <coordinates>77.175842,31.090225,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>AF Hare 1</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Mysore<br>Profession: Consulting Architect<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style8</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Mysore<br>Profession: Consulting Architect<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style9</styleUrl>
     <Point>
       <coordinates>77.595360,12.995066,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>AF Hare 2</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Consulting Architect<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style67</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Consulting Architect<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style80</styleUrl>
     <Point>
       <coordinates>-0.599270,51.513336,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Babu Matthen</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Mysore<br>Profession: Engineer<br><br>Knew Otto Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style65</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Mysore<br>Profession: Engineer<br>Initial Contact: 1939</div>]]></description>
+    <styleUrl>#style77</styleUrl>
     <Point>
       <coordinates>77.590469,12.976666,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name> Walchand Hirachand Doshi</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1953<br>Network: IISc, Government of Mysore<br>Profession: Industrialist - founded first aircraft Factory in India<br><br>Knew Koenigsberger from: 1939</div>]]></description>
-    <styleUrl>#style37</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1882-1953<br>Network: IISc, Government of Mysore<br>Profession: Industrialist - founded first aircraft Factory in India<br>Initial Contact: 1939<br>Image: Walchand-Doshi</div>]]></description>
+    <styleUrl>#style46</styleUrl>
     <Point>
       <coordinates>77.565582,13.015178,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Col. &quot;Dev&quot; Devereux</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Chairman of Structural and Mechanical Development <br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style26</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Chairman of Structural and Mechanical Development <br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style31</styleUrl>
     <Point>
       <coordinates>-0.601244,51.512909,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>RK Shanmukham Chetty</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1892-1953<br>Network: Government of India<br>Profession: Finance Minister 1947-1949<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style45</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1892-1953<br>Network: Government of India<br>Profession: Finance Minister 1947-1949<br>Initial Contact: 1948<br>Image: RK-Chetty</div>]]></description>
+    <styleUrl>#style55</styleUrl>
     <Point>
       <coordinates>77.208450,28.616795,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Rudolf Van Leyden</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1908-1983<br>Network: MARG<br>Profession: Art critic<br><br>Knew Otto Koenigsberger from: 1945 ?</div>]]></description>
-    <styleUrl>#style51</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1908-1983<br>Network: MARG<br>Profession: Art critic<br>Initial Contact: 1945 ?<br>Image: Rudy-van-Leyden</div>]]></description>
+    <styleUrl>#style64</styleUrl>
     <Point>
       <coordinates>72.830383,18.927803,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Walter Langhammer</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1905-1977<br>Network: MARG, Indian Institute of Science<br>Profession: Painter and Art Teacher<br><br>Knew Otto Koenigsberger from: 1945 ?</div>]]></description>
-    <styleUrl>#style9</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1905-1977<br>Network: MARG, Indian Institute of Science<br>Profession: Painter and Art Teacher<br>Initial Contact: 1945 ?<br>Image: Walter-Langhammer</div>]]></description>
+    <styleUrl>#style10</styleUrl>
     <Point>
       <coordinates>72.831375,18.926991,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
-    <name>M. J. P. Mistry </name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: MARG<br>Profession: Architect at Ditchburn Mistry and Bhedwar<br><br>Knew Otto Koenigsberger from: 1945 ?</div>]]></description>
-    <styleUrl>#style58</styleUrl>
+    <name>JRD Tata</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1904-1993<br>Network: Tata<br>Profession: Entrepreneur, Chairman of Tata &amp; Sons<br>Initial Contact: 1943<br>Image: JRD-Tata</div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>72.830086,18.929144,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MJP Mistry </name>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: MARG<br>Profession: Architect at Ditchburn Mistry and Bhedwar<br>Initial Contact: 1945</div>]]></description>
+    <styleUrl>#style70</styleUrl>
     <Point>
       <coordinates>72.831848,18.928087,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Hermann Goetz</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1998-1976<br>Network: MARG<br>Profession: Art Historian<br><br>Knew Otto Koenigsberger from: 1945 ?</div>]]></description>
-    <styleUrl>#style36</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1998-1976<br>Network: MARG<br>Profession: Art Historian<br>Initial Contact: 1945</div>]]></description>
+    <styleUrl>#style43</styleUrl>
     <Point>
       <coordinates>72.830170,18.927032,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>George Keyt</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1901-1993<br>Network: MARG<br>Profession: Painter, poet<br><br>Knew Otto Koenigsberger from: 1945 ?</div>]]></description>
-    <styleUrl>#style42</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1901-1993<br>Network: MARG<br>Profession: Painter, poet<br>Initial Contact: 1945<br>Image: George-Keyt</div>]]></description>
+    <styleUrl>#style52</styleUrl>
     <Point>
       <coordinates>79.876099,6.915521,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Minnette de Silva</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1918-1998<br>Network: MARG, JJ College<br>Profession: Architect<br><br>Knew Otto Koenigsberger from: 1943 ?</div>]]></description>
-    <styleUrl>#style34</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1918-1998<br>Network: MARG, JJ College<br>Profession: Architect<br>Initial Contact: 1943<br>Image: Minnette-de-Silva</div>]]></description>
+    <styleUrl>#style40</styleUrl>
     <Point>
       <coordinates>72.833786,18.944061,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>TH Wardleworth</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Engineer, Aerocrete specialist<br><br>Knew Koenigsberger from: 1950</div>]]></description>
-    <styleUrl>#style75</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Engineer, Aerocrete specialist<br>Initial Contact: 1950</div>]]></description>
+    <styleUrl>#style89</styleUrl>
     <Point>
       <coordinates>-73.605652,45.505383,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>BD Kambu</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1911-1999<br>Network: Government of India<br>Profession: Town Planning Officer<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style15</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1911-1999<br>Network: Government of India<br>Profession: Town Planning Officer<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style18</styleUrl>
     <Point>
       <coordinates>70.141869,23.061096,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Bhai Pratap Dialdas</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1908-1967<br>Network: Government of India<br>Profession: Managing Director Sindhu Resettlement Corporation<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style47</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1908-1967<br>Network: Government of India<br>Profession: Managing Director Sindhu Resettlement Corporation<br>Initial Contact: 1948<br>Image: Bhai-Pratap</div>]]></description>
+    <styleUrl>#style59</styleUrl>
     <Point>
       <coordinates>70.136375,23.059832,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
+    <name>SK Dey</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1905-1989<br>Network: Government of India<br>Profession: Indian Planning Commission: Community Development (Panchayat Raj)<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>77.210281,28.617001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>TS Gill</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Co-designer Housing Factory<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style72</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Co-designer Housing Factory<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style86</styleUrl>
     <Point>
       <coordinates>77.252289,28.577503,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
+    <name>Gulzarilal Nanda</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1898-1998<br>Network: Government of India<br>Profession: Indian Planning Commission Vice-Chairman; Planning Minister from 1951<br>Initial Contact: 1948<br>Image: Gulzarilal-Nanda</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>77.207680,28.617514,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
     <name>CS Chandrasekhara</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Co-designer Housing Factory<br><br>Knew Otto Koenigsberger from: 1948</div>]]></description>
-    <styleUrl>#style38</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of India<br>Profession: Co-designer Housing Factory<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style47</styleUrl>
     <Point>
       <coordinates>77.252686,28.577568,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Robert Gardner-Medwin</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1907-1995<br>Network: UN<br>Profession: Architect, Planner, UN Advisor<br><br>Knew Otto Koenigsberger from: 1950</div>]]></description>
-    <styleUrl>#style63</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1907-1995<br>Network: UN<br>Profession: Architect, Planner, UN Advisor<br>Initial Contact: 1950<br>Image: R-Gardner-Medwin</div>]]></description>
+    <styleUrl>#style75</styleUrl>
     <Point>
       <coordinates>77.210243,28.603664,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Jacob L Crane</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1892-1988<br>Network: UN<br>Profession: UN Advisor, US Housing and Home Finance Agency<br><br>Knew Otto Koenigsberger from: 1950</div>]]></description>
-    <styleUrl>#style48</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1892-1988<br>Network: UN<br>Profession: UN Advisor, US Housing and Home Finance Agency<br>Initial Contact: 1950</div>]]></description>
+    <styleUrl>#style60</styleUrl>
     <Point>
       <coordinates>77.209679,28.603476,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Jacobus P Thijsse</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1896-1981<br>Network: UN<br>Profession: UN Advisor, Professor University of Bandung<br><br>Knew Otto Koenigsberger from: 1950</div>]]></description>
-    <styleUrl>#style57</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1896-1981<br>Network: UN<br>Profession: UN Advisor, Professor University of Bandung<br>Initial Contact: 1950</div>]]></description>
+    <styleUrl>#style69</styleUrl>
     <Point>
       <coordinates>77.210075,28.603909,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
     <name>Antonio C Kayanan</name>
-    <description><![CDATA[<div dir="ltr">Lifetime: 1896-1981<br>Network: UN<br>Profession: UN Advisor, <br><br>Knew Otto Koenigsberger from: 1950</div>]]></description>
-    <styleUrl>#style68</styleUrl>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1896-1981<br>Network: UN<br>Profession: UN Advisor, <br>Initial Contact: 1950</div>]]></description>
+    <styleUrl>#style81</styleUrl>
     <Point>
       <coordinates>77.209801,28.603691,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Stella Kramisch</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1869-1993<br>Network: ?<br>Profession: Art Historian<br>Initial Contact: 1940<br>Image: Stella-Kramrisch</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>88.362495,22.573412,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Homi Bhabha 2</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1909-1966<br>Network: Family, Indian Institute of Science, Tata<br>Profession: Physicist<br>Initial Contact: 1939<br>Image: Homi-Bhabha2</div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>72.803429,18.954777,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pipsy Wadia</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Tata<br>Profession: ? <br>Initial Contact: ?</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>72.803932,18.954655,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Body Allerdice</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Tata<br>Profession: ? <br>Initial Contact: ?</div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>72.804054,18.955162,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kanwar Sain</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1899-?<br>Network: Government of India<br>Profession: Engineer, Water and Power Planning Commission<br>Initial Contact: 1948</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>77.212410,28.619385,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>William Hoyt Worrell</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1879-1952<br>Network: Ludwig Borchardt Institute<br>Profession: Professor of Semiotics<br>Initial Contact: 1936<br>Image: William-H-Worrell</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-83.738182,42.277130,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Claude Batley</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1879-1956<br>Network: JJ College<br>Initial Contact: Architect, Teacher<br>Acquainted from: 1940</div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>72.834068,18.944166,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>EK Ramaswami</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: ?<br>Network: Government of Mysore<br>Profession: Professor of Engineering<br>Initial Contact: 1939</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>77.585854,12.975495,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Philip Spratt</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1902-1971<br>Network: Mysore<br>Profession: Writer, editor of Mysindia<br>Initial Contact: 1939<br>Image: Philip_Spratt</div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>77.589767,12.977743,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bissano Ram Gopal </name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1912-2003<br>Network: Mysore<br>Profession: Classical Indian Dancer<br>Initial Contact: 1939<br>Image: Ram-Gopal</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>77.597061,12.975814,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>MS Krishna Rao</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1877-1958<br>Network: Mysore<br>Profession: Finance Minister, Acting Dewan<br>Initial Contact: 1939<br>Image: MN-Krishna-Rao</div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>77.575485,12.941796,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Erich Mendelsohn</name>
+    <description><![CDATA[<div dir="ltr">Lifetime: 1887-1953<br>Network: Berlin<br>Profession: Architect Researcher<br>Initial Contact: 1930?<br>Image: Erich_Mendelsohn</div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>13.322468,52.510761,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1099,9 +1309,9 @@
   <Placemark>
     <name>Otto Koenigsberger [1933-1936]</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style59</styleUrl>
+    <styleUrl>#style71</styleUrl>
     <Point>
-      <coordinates>31.224947,30.060181,0.000000</coordinates>
+      <coordinates>31.224592,30.061453,0.000000</coordinates>
     </Point>
   </Placemark>
   <Placemark>
@@ -1115,7 +1325,7 @@
   <Placemark>
     <name>Otto Koenigsberger [1939-1948]</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style70</styleUrl>
+    <styleUrl>#style83</styleUrl>
     <Point>
       <coordinates>77.589066,12.990513,0.000000</coordinates>
     </Point>
@@ -1123,7 +1333,7 @@
   <Placemark>
     <name>Otto Koenigsberger [1948-1951]</name>
     <description><![CDATA[]]></description>
-    <styleUrl>#style18</styleUrl>
+    <styleUrl>#style22</styleUrl>
     <Point>
       <coordinates>77.209984,28.603571,0.000000</coordinates>
     </Point>
